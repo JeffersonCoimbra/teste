@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+
+
+body{
+    background-color: #OOOOOO;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.escrita-mao{
+    font-family: 'Allison', cursive;
+    text-shadow: #000 2px 2px;
+}
+
+/*Esse é um comentário CSS
+h1{
+    
+    font-family: 'Roboto Slab', serif;
+    font-size: 52px;
+    color:#FFFFFF;
+    padding-top: 10%;
+    text-shadow:  2px 2px;
+    text-align: center;
+   
+
+}
+
+header{
+    display: block;
+    height: 200px;
+    text-align: center;
+    background-color:#000000;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.menu-principal{
+    width: 100%;
+    background-color:#696969;
+    height: 50px;
+
+}
+
+#index{
+    display:block;
+    height: 800px;
+    background-image:url(../img/Fundo.jpg);
+    background-repeat:no-repeat;
+    background-color:white;
+    
+    
+    
+
+}
+
+#elenco{
+    display:block;
+    height: 800px;
+    background-color: white;
+    background-image:url(../img/Fundo.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+}
+
+#historia{
+    display:block;
+    height: 800px;
+    background-image: url(../img/historia.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: white;
+
+}
+
+#titulos{
+    display:block;
+    height: 800px;
+    background-color: white;
+    background-image: url(../img/titulos.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+#estadio{
+    display:block;
+    height: 800px;
+    background-image: url(../img/Fundoestadio.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed
+}
+
+#Cadastro{
+    display:block;
+    height: 800px;
+    background-image: url(../img/Fundo.jpg);
+    background-color: white
+
+}
+
+h2{
+    padding-top:10px;
+    font-size: 18px;
+    font-weight: bold;
+   background-color: rgb(111, 0, 255);
+   text-align:left;
+}
+
+h6{
+    padding-top:10px;
+    font-size: 18px;
+    font-weight: bold;
+   background-color: black;
+   text-align:center;
+}
+
+
+
+Código substituido pelo Bootstrap
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #613800;
+    position: sticky;
+    top: 0;
+}
+
+
+nav ul li{
+    display: inline-block;
+    padding: 2px;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 20px;
+    text-decoration: none;
+}
+
+nav ul li a:link, a:visited{
+    color: #FFFFFF;
+}
+
+nav ul li a:hover{
+    color: #FFFFFF;
+    background-color: #EDB469;
+}
+
+footer{
+    text-align: center;
+    padding-top: 100px;
+    height: 200px;
+    background-color:#000000;
+    color: #FFFFFF;
+}
+
